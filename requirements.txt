@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+joblib
+fastapi
+uvicorn[standard]
+matplotlib
+seaborn
+pydantic
+scipy
+optuna
+black
+pytest
