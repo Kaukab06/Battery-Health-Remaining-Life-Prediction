@@ -1,4 +1,4 @@
-# Battery Health Monitoring & RUL Prediction — Work in Progress 
+# Battery Health Monitoring & RUL Prediction — Ongoing 
 
 This project focuses on predicting State of Health (SOH) and Remaining Useful Life (RUL) of Lithium-ion batteries using Machine Learning techniques. The dataset is inspired by the NASA Ames Prognostics Center of Excellence lithium-ion battery degradation experiments.
 
